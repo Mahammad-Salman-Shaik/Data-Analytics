@@ -25,7 +25,7 @@ I have successfully completed the **Google Data Analytics Professional Certifica
 - **Data Cleaning Techniques**: Used various techniques to clean and preprocess raw datasets for analysis.
 
 ## Coursera Certification
-- **Google Data Analytics Professional Certificate**: [Link to Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+- **Google Data Analytics Professional Certificate**:(https://www.coursera.org/account/accomplishments/professional-cert/JQRL5ZGPT7VD)
 
 ## How to Leverage These Skills
 - **Data-Driven Insights**: Use my skills to analyze business data, uncover trends, and recommend actionable strategies to improve efficiency and decision-making.
