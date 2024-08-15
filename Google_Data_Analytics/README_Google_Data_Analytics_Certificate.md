@@ -33,4 +33,4 @@ I have successfully completed the **Google Data Analytics Professional Certifica
 - **Advanced Visualizations**: Create compelling dashboards and visualizations that effectively communicate data insights to stakeholders.
 
 ## Contact
-For more information or to discuss opportunities, please feel free to contact me at [Mahammad Salman Shaik](mailto:youremail@example.com).
+For more information or to discuss opportunities, please feel free to contact me at [Mahammad Salman Shaik]
